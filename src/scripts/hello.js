@@ -1,1 +1,4 @@
-export default () => console.warn("Hello!");
+function hello () {
+    console.warn("Aloha!");
+}
+export default hello
